@@ -1,6 +1,6 @@
 !Credit:        Daniel Choe
 !Homepage:      danielchoe.xyz
-!Format:        adguard
+!Format:        adguard abp
 !Creation Date: 03/17/2022
 
 ||http://www.tonec.com^
